@@ -1,0 +1,4 @@
+numpy
+scipy
+matplotlib
+git+https://github.com/FALCONN-LIB/FFHT#egg=FFHT
