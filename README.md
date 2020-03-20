@@ -2,7 +2,7 @@ Software accompanying the paper "Single-Trace Attacks on Keccak" which will be p
 
 Authors:
   - [Matthias J. Kannwischer](https://kannwischer.eu/) `<matthias@kannwischer.eu>`
-  - [Peter Pessl](https://www.iaik.tugraz.at/person/peter-pessl/) `<peter.pessl@iaik.tugraz.at>`
+  - [Peter Pessl](https://pessl.cc) `<peter@pessl.cc>`
   - [Robert Primas](https://www.iaik.tugraz.at/person/robert-primas/) `<rprimas@gmail.com>`
 
 The paper is available at: [TODO] 
