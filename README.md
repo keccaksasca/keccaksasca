@@ -7,7 +7,7 @@ Authors:
 
 The paper is available at: [TODO] 
 
-
+# Usage
 All simulation results were performed using the provided code.
 
 Installation of required packages: `python3 -m pip install -r requirements.txt --user`
@@ -31,3 +31,8 @@ Important command line parameters for simulation:
 Shortcuts for above parameters: R = fully random, 0 = all zero, supports python string expansion, e.g., `"RR"*16 + "00"*(200-16)` sets first 16 bytes random, others to zero
 
 `--seed`: allows specifying a randomness seed (32bit hexstring) for rerunning specific simulations
+
+
+# License
+
+All files in this repository fall under the CC0 Public Domain dedication.
