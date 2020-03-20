@@ -8,11 +8,13 @@ Authors:
 The paper is available at: [TODO] 
 
 # Usage
-All simulation results were performed using the provided code.
+All simulation results were obtained using the provided code.
 
-Installation of required packages: `python3 -m pip install -r requirements.txt --user`
+## Installation
 
-Performing simulations:
+`python3 -m pip install -r requirements.txt --user` installs the required packages.
+
+## Running Simulations 
 Change to directory `keccak-p/ `and run `python3 bp.py`. 
 Alternatively, call `./inst_generic_xxx_xxx.sh` for one of the predefined scenarios.
 
