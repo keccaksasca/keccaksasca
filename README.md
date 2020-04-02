@@ -5,7 +5,7 @@ Authors:
   - [Peter Pessl](https://pessl.cc) `<peter@pessl.cc>`
   - [Robert Primas](https://www.iaik.tugraz.at/person/robert-primas/) `<rprimas@gmail.com>`
 
-The paper is available at: [TODO] 
+The paper is available at: https://eprint.iacr.org/2020/371.pdf
 
 # Usage
 All simulation results were obtained using the provided code.
