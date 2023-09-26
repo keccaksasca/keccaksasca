@@ -12,7 +12,7 @@ All simulation results were obtained using the provided code.
 
 ## Installation
 
-`python3 -m pip install -r requirements.txt --user` installs the required packages.
+`make` installs the required packages.
 
 ## Running Simulations 
 Change to directory `keccak-p/ `and run `python3 bp.py`. 
